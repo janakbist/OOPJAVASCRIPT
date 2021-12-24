@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Mobile Programming"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "oopjs"
+	}
+}
